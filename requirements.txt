@@ -1,0 +1,21 @@
+# Core: CLIP + deep learning
+torch
+torchvision
+clip @ git+https://github.com/openai/CLIP.git
+transformers
+datasets
+
+# Data / ML utilities
+scikit-learn
+numpy
+pandas
+Pillow
+
+# App / demo
+gradio
+
+# EDA / notebooks
+matplotlib
+seaborn
+jupyter
+tqdm
