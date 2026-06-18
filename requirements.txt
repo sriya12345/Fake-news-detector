@@ -14,6 +14,9 @@ Pillow
 # App / demo
 gradio
 
+# Experiment tracking
+wandb
+
 # EDA / notebooks
 matplotlib
 seaborn

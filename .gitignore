@@ -7,7 +7,12 @@ __pycache__/
 
 # Virtual environments
 venv/
+.venv/
 .env
+
+# Build / package metadata
+*.egg-info/
+*.dist-info/
 
 # VS Code
 .vscode/
@@ -19,10 +24,14 @@ venv/
 checkpoints/
 wandb/
 logs/
+outputs/
 
 # Data
 data/raw/
 data/processed/
+data/_dummy/
+data/visual_news/
+data/news_clippings/
 
 # OS files
 .DS_Store

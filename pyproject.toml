@@ -23,6 +23,7 @@ dependencies = [
     "seaborn",
     "jupyter",
     "tqdm",
+    "wandb",
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
